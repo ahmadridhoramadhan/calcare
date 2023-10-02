@@ -22,7 +22,7 @@ export default function Header() {
             {
                 isNavOpen ?
                     <nav className="fixed top-0 bottom-0 left-0 right-0 bg-white pt-28 px-2 text-xl z-40">
-                        <div className="flex justify-between px-2 border-b border-black mb-5">
+                        <div className="flex justify-between px-2 border-b-2 border-black mb-5">
                             <div className="flex gap-1 items-center">
                                 <div className="w-4 h-4"><PersonIcon /></div>
                                 <p>Nana</p>
